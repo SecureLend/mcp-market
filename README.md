@@ -30,7 +30,7 @@ See [`server.json`](./server.json) (namespace `ai.securelend/market` after domai
 ## Related
 
 - Schema / OSS comparison infra: [SecureLend/mcp-financial-services](https://github.com/SecureLend/mcp-financial-services)
-- **Underwriting MCP** (lender file → cited memo): [mcp-underwriting](https://github.com/orgtom78/mcp-underwriting)
+- **Underwriting MCP** (lender file → cited memo): [mcp-underwriting](https://github.com/SecureLend/mcp-underwriting)
 
 ## License
 
